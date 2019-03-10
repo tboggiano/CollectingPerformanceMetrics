@@ -22,3 +22,12 @@
 * Volunteer with abused and neglected foster children through the NC Guardian ad Litem, **favorite and most important job**
 
 ---
+
+## Agenda
+
+* Why
+* When
+* What
+* How
+
+---
