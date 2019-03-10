@@ -38,10 +38,15 @@
 
 ## Why Having Performance Metrics is Important
 
-* Understanding the trends in your environment
-* You can find a problem before someone complains
-* Proactive tuning 
-* Makes troubleshooting easier
-* Capacity planning
+@ul
+
+- Understanding the trends in your environment
+- You can find a problem before someone complains
+- Proactive tuning 
+- Makes troubleshooting easier
+- Capacity 
+
+@ulend
 
 ---
+
