@@ -16,9 +16,9 @@
 
 ## About Me
 
-20+ years experience with SQL Server <br>
-Co-leader of TriPass Local User Group In Raleigh <br>
-Member of SpeakingMentors.com <br>
-Volunteer with abused and neglected foster children through the NC Guardian ad Litem, <em>favorite and most important job<em> <br>
+* 20+ years experience with SQL Server 
+* Co-leader of TriPass Local User Group In Raleigh 
+* Member of SpeakingMentors.com 
+* Volunteer with abused and neglected foster children through the NC Guardian ad Litem, **favorite and most important job**
 
 ---
